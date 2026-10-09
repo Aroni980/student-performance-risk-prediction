@@ -107,6 +107,10 @@ Through this project, I gained hands-on experience with:
 \* Compare different machine learning algorithms.
 
 \* Explore ways to improve prediction reliability.
+Author: 
+
+Sanzida Ahmed Aroni
+Bachelor of Computer Science
 
 
 
